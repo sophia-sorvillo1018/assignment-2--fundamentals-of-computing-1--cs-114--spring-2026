@@ -48,7 +48,7 @@ public class PrintVowelsAndNonVowels {
     System.out.println("Number of lowercase 'i' vowels: " + countI);
     System.out.println("Number of lowercase 'o' vowels: " + countO);
     System.out.println("Number of lowercase 'u' vowels: " + countU);
-    System.out.println("Number of lowercase nonvowels: " + nonVowelCount);
+    System.out.println("Number of nonvowels: " + nonVowelCount);
 
     input.close();
   }
